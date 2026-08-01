@@ -1,0 +1,126 @@
+Level 1: Variables & Operators
+Print "Hello World"
+Add two numbers
+Swap two variables
+Find the largest of two numbers
+Find the largest of three numbers
+Check even or odd
+Positive, negative, or zero
+Calculate simple interest
+Convert Celsius to Fahrenheit
+Convert Fahrenheit to Celsius
+
+Level 2: If-Else
+Check voting eligibility
+Find grade from marks
+Check leap year
+Check divisible by 5 and 11
+Find greatest among four numbers
+Electricity bill calculator
+Income tax calculator
+Triangle validity
+Triangle type
+Calculate BMI
+
+Level 3: Loops
+Print 1–100
+Print 100–1
+Sum of first N numbers
+Multiplication table
+Factorial
+Fibonacci series
+Prime number
+Print all prime numbers
+Reverse a number
+Count digits
+Sum of digits
+Armstrong number
+Palindrome number
+Strong number
+Perfect number
+
+Level 4: Patterns
+
+Level 5: Strings
+Reverse string
+Palindrome string
+Count vowels
+Count consonants
+Count words
+Count characters
+Remove spaces
+Capitalize first letter
+Toggle case
+Check anagram
+
+Level 6: Arrays
+Largest element
+Smallest element
+Second largest
+Second smallest
+Sum of array
+Average
+Reverse array
+Remove duplicates
+Find missing number
+Find duplicates
+Sort ascending
+Sort descending
+Merge arrays
+Rotate array
+Find frequency
+
+Level 7: Objects
+Create student object
+Loop through object
+Count properties
+Merge objects
+Clone object
+Nested object
+Object destructuring
+Update property
+Delete property
+Freeze object
+
+Level 8: Functions
+Calculator
+Prime function
+Factorial function
+Fibonacci function
+Recursive factorial
+Recursive Fibonacci
+Arrow functions
+Callback function
+Higher-order function
+Closure example
+
+Level 9: DOM
+Change text
+Change image
+Toggle class
+Add list item
+Delete list item
+Counter app
+Dark mode
+Live character counter
+Password toggle
+Digital clock
+
+Level 10: Async
+Fetch API
+Random joke API
+Weather API
+Promise example
+Async/Await example
+
+Advanced
+Debounce
+Throttle
+Custom map()
+Custom filter()
+Custom reduce()
+Deep clone
+Flatten array
+Group objects
+Memoization
+Event delegation
