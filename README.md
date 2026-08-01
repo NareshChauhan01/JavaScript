@@ -1,10 +1,6 @@
 ### 🚀 JavaScript
 
-A complete JavaScript learning repository covering everything from **Basic to Advanced**.
-
-This repository contains my JavaScript learning journey, including concepts, coding exercises
-
----
+A complete JavaScript learning repository covering everything from **Basic to Advanced**.This repository contains my JavaScript learning journey, including concepts, coding exercises
 
 ## 📚 Topics Covered
 
@@ -28,13 +24,10 @@ This repository contains my JavaScript learning journey, including concepts, cod
 - Advanced JavaScript
 - Mini Projects
 
----
 ## 🛠️ Tech Stack
 
 - JavaScript (ES6+)
 - HTML5
-
----
 
 ## 🎯 Learning Goals
 
@@ -44,23 +37,12 @@ This repository contains my JavaScript learning journey, including concepts, cod
 - Prepare for technical interviews.
 - Build real-world projects.
 
----
-
 ## 📌 Progress
 i++
 
----
-
 ## 🤝 Contributing
-
 Suggestions and improvements are always welcome.
 
----
-
 ## ⭐ Support
-
 If you find this repository helpful, consider giving it a ⭐ on GitHub.
-
----
-
 Made with ❤️ by **Naresh Chauhan**
